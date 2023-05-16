@@ -3,6 +3,8 @@ This repo is accepted by "International Journal of Machine Learning and Cybernet
 
 Some files you may need(ckpt,json,datasets...):  https://pan.baidu.com/s/1ZraMbY8eEFKNHBgkz_RiUA(rxlq)
 
+The "caption_eval" is also recommended to download in any other repo, cuz it noticed me some files is larger than 50MB and I am not sure it is uploaded successfully.
+
 ### Running:
 
 The "visible.py" can visualize some video samples, so you can run first.
