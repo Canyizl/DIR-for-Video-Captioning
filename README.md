@@ -1,4 +1,6 @@
-# Brain-inspired learning to Deeper Inductive Reasoning for Video Captioning
+
+[**M-GCN: Brain-inspired Memory Graph Convolutional Network for Multi-Label Image Recognition**](https://link.springer.com/article/10.1007/s13042-023-01876-9)
+
 This repo is accepted by "International Journal of Machine Learning and Cybernetics" (IF=4.4 2023.05)
 
 Some files you may need(ckpt,json,datasets...):  https://pan.baidu.com/s/1ZraMbY8eEFKNHBgkz_RiUA(rxlq)
