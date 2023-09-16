@@ -2,7 +2,7 @@
 [**Brain-inspired learning to Deeper Inductive Reasoning for Video Captioning**](https://link.springer.com/article/10.1007/s13042-023-01876-9)
 (https://doi.org/10.1007/s13042-023-01876-9)
 
-This repo is accepted by "International Journal of Machine Learning and Cybernetics" (IF=4.4 2023.05)
+This repo is accepted by "International Journal of Machine Learning and Cybernetics" (IF=5.6 2023.06)
 
 Some files you may need(ckpt,json,datasets...):  https://pan.baidu.com/s/1ZraMbY8eEFKNHBgkz_RiUA(rxlq)
 
